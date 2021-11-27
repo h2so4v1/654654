@@ -1,0 +1,14 @@
+refresh
+refresh
+refresh
+refresh
+refresh
+refresh
+refresh
+close
+quit
+exit
+stop
+refresh
+refresh
+refresh
